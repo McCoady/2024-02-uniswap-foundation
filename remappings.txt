@@ -1,0 +1,2 @@
+v3-periphery/=v3-periphery/contracts/
+@uniswap/v3-core/=v3-core/
